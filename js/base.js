@@ -25,8 +25,7 @@ console.log(`Nome do aluno: ${nomeAluno} Rm do aluno: ${rmAluno} `);
  console.log(`Turma do aluno: ${turmaAluno}`);
 
 
-
-
+console.log('Alterando o Arquivo JS, executando um novo commit');
 
 
  
